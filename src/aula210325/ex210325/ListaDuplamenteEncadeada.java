@@ -142,7 +142,7 @@ public class ListaDuplamenteEncadeada {
             atual.setAnterior(temporario);
 
             novoInicio = atual;
-            
+
             atual = temporario;
         }
 
